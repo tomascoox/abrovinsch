@@ -19,7 +19,6 @@ export default function Home() {
                     <Image
                         src="/abrovinsch-logotype-color.svg" // Replace with your logo path
                         alt="Abrovinsch Logo"
-                        layout="responsive"
                         width={500} // Set to the natural width of your image
                         height={100} // Set to the natural height of your image
                         priority
